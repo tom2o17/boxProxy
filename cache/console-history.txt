@@ -1,0 +1,25 @@
+(await box.retrieve()).toString()
+console.log( await box.retrieve().toString)
+(await box.retrieve()).toString()
+console.log( await box.retrieve().toString)
+console.log( await box.retrieve())
+console.log(box.retrieve())
+console.log(box.retrieve)
+box.store('43')
+box.store('43').send()
+box.store('43').call()
+clear
+console.log(Box.address)
+Box.address
+box.address
+(await box.retrieve()).toString()
+const box = await Box.attach('0x972bB313B06D5f45ebEe3c97EaCEF4824702dA3B')
+console.log(await Box.retrieve())
+console.log(await box.retrieve())
+const Box = await ethers.getContractFactory('Box')
+npx hardhat console 
+const box = await ethers.getContractFactory("Box")
+const box = 'ehll0'
+const Box = await ethers.getContractFactory('Box')
+const Box = await ethers.getContractFactory("Box")
+clear
